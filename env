@@ -84,7 +84,7 @@ MIDTRANS_ORDER_PREFIX=NGINEPYUK
 # RIPLABS
 # =============================================
 RIPLABS_KEY=
-RIPLABS_SNAPTOKEN_URL=https://restapi.riplabs.co.id/snaptokennginepyuk/getsnaptoken
+RIPLABS_SNAPTOKEN_URL=
 MIDTRANS_CALLBACK_KEY=
 
 # =============================================
