@@ -18,7 +18,7 @@ class MailService
         $this->mailer->Host       = 'smtp.hostinger.com';
         $this->mailer->SMTPAuth   = true;
         $this->mailer->Username   = 'noreply@arifsiddikm.com';
-        $this->mailer->Password   = 'SatuDua345!!';
+        $this->mailer->Password   = '';
         $this->mailer->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;
         $this->mailer->Port       = 465;
         $this->mailer->CharSet    = 'UTF-8';

@@ -103,7 +103,7 @@ MIDTRANS_IS_PRODUCTION=false
 MIDTRANS_SNAP_JS_URL=https://app.sandbox.midtrans.com/snap/snap.js
 
 RIPLABS_KEY=your_riplabs_key
-RIPLABS_SNAPTOKEN_URL=https://restapi.riplabs.co.id/snaptokennginepyuk/getsnaptoken
+RIPLABS_SNAPTOKEN_URL=
 RIPLABS_CI_SESSION=your_ci_session_cookie
 
 ADMIN_WHATSAPP=6289514392694

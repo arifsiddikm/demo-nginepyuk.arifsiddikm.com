@@ -45,20 +45,20 @@ MAIL_HOST=smtp.hostinger.com
 MAIL_PORT=465
 MAIL_ENCRYPTION=ssl
 MAIL_USERNAME=noreply@arifsiddikm.com
-MAIL_PASSWORD=SatuDua345!!
+MAIL_PASSWORD=
 ADMIN_EMAIL=arifsiddikmuharam@gmail.com
 
 # Midtrans
-MIDTRANS_CLIENT_KEY=SB-Mid-client-YQ6BjX9sqs3xGMHr
-MIDTRANS_SERVER_KEY=SB-Mid-server-3RAh5nBbKZtdE-x1eVKvUm-i
+MIDTRANS_CLIENT_KEY=
+MIDTRANS_SERVER_KEY=
 MIDTRANS_IS_PRODUCTION=false
 MIDTRANS_SNAP_JS_URL=https://app.sandbox.midtrans.com/snap/snap.js
 
 # Riplabs (snap token generator - pakai asForm() + Cookie ci_session)
-RIPLABS_KEY=a9s8d7bas98d7981273xbasduky8b71o247bai8f
-RIPLABS_SNAPTOKEN_URL=https://restapi.riplabs.co.id/snaptokennginepyuk/getsnaptoken
-RIPLABS_CI_SESSION=66dcb99e80462b95dd17b2f24248fbda60398271
-MIDTRANS_CALLBACK_KEY=a9s8d7bas98d7981273xbasduky8b71o247bai8f
+RIPLABS_KEY=
+RIPLABS_SNAPTOKEN_URL=
+RIPLABS_CI_SESSION=
+MIDTRANS_CALLBACK_KEY=
 
 # WhatsApp Admin
 ADMIN_WHATSAPP=6289514392694
